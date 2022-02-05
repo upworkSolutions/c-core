@@ -1,0 +1,16 @@
+C:\Users\urajkovic\Desktop\c#app\ParseText\bin\Debug\net5.0\ParseText.exe
+C:\Users\urajkovic\Desktop\c#app\ParseText\bin\Debug\net5.0\ParseText.deps.json
+C:\Users\urajkovic\Desktop\c#app\ParseText\bin\Debug\net5.0\ParseText.runtimeconfig.json
+C:\Users\urajkovic\Desktop\c#app\ParseText\bin\Debug\net5.0\ParseText.runtimeconfig.dev.json
+C:\Users\urajkovic\Desktop\c#app\ParseText\bin\Debug\net5.0\ParseText.dll
+C:\Users\urajkovic\Desktop\c#app\ParseText\bin\Debug\net5.0\ref\ParseText.dll
+C:\Users\urajkovic\Desktop\c#app\ParseText\bin\Debug\net5.0\ParseText.pdb
+C:\Users\urajkovic\Desktop\c#app\ParseText\obj\Debug\net5.0\ParseText.csproj.AssemblyReference.cache
+C:\Users\urajkovic\Desktop\c#app\ParseText\obj\Debug\net5.0\ParseText.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\urajkovic\Desktop\c#app\ParseText\obj\Debug\net5.0\ParseText.AssemblyInfoInputs.cache
+C:\Users\urajkovic\Desktop\c#app\ParseText\obj\Debug\net5.0\ParseText.AssemblyInfo.cs
+C:\Users\urajkovic\Desktop\c#app\ParseText\obj\Debug\net5.0\ParseText.csproj.CoreCompileInputs.cache
+C:\Users\urajkovic\Desktop\c#app\ParseText\obj\Debug\net5.0\ParseText.dll
+C:\Users\urajkovic\Desktop\c#app\ParseText\obj\Debug\net5.0\ref\ParseText.dll
+C:\Users\urajkovic\Desktop\c#app\ParseText\obj\Debug\net5.0\ParseText.pdb
+C:\Users\urajkovic\Desktop\c#app\ParseText\obj\Debug\net5.0\ParseText.genruntimeconfig.cache
