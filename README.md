@@ -19,7 +19,9 @@ In short, the program should be works as follows:
 Output should look like this:
 
 John Davidson Berlin
+
 Michael Barton Lisbon
+
 Ivan Perkinson Moscow
 
 It must also be used  .NET 5 SDK, not .NET 6.
